@@ -1,0 +1,13 @@
+aiogram
+aiohttp
+aiofiles
+magic-filter
+pydantic
+pydantic-core
+groq
+httpx
+sqlalchemy
+asyncpg
+greenlet
+python-dotenv
+typing-extensions
